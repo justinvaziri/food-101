@@ -1,0 +1,3 @@
+Best Accuracy: 0.4598
+Training Time: 107m 45s
+Test Loss: 2.4210
